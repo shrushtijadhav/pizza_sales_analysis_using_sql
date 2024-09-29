@@ -1,2 +1,3 @@
-# pizza_sales_analysis_using_sql
-[pizzalogo](https://github.com/shrushtijadhav/pizza_sales_analysis_using_sql/blob/main/pexels-vince-2147491.jpg)
+# Pizza Sales Analysis using SQL
+
+![Pizza](https://github.com/shrushtijadhav/Amazon_Sales_Data_Analysis/blob/main/amazon-img.png)
